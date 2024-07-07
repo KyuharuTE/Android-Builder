@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi9KernelPoweredBySeparate",
-      "repo": "https://github.com/Separatee/AllinOneKernel",
-      "branch": "main",
-      "device": "cepheus",
-      "defconfig": "cepheus_defconfig"
+      "name": "Mimix3-Kernel",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm845",
+      "branch": "lineage-21",
+      "device": "sdm845",
+      "defconfig": "sdm845_defconfig"
     },
     "toolchains": [
       {
